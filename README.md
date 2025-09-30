@@ -3,7 +3,19 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Raja Chanda
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Tech Innovator
-### 🎓 B.Tech CSE @ VNRVJIET | Building the Future, One Line at a T## 🤝 Let's Build Something Amazing Together!
+### 🎓 B.Tech CSE @ VNRVJIET | Building the Future, One Line at a Time
+
+<img src="./gif/code.gif" width="500px" alt="Coding Animation"/>
+
+[![Typing SVG](ng-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%2B+Machine+Learning+Explorer;MERN+%7C+Flutter+%7C+Golang+Enthusiast;Open+Source+Contributor;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajachanda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+</p>
+
+</div>
 
 <div align="center">
 
@@ -57,7 +69,7 @@ Available For:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rajaportfoli-2vwe.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ED2wgGHL3ICVDfeRq3dEpsktRPSQ46O_/view?usp=sharing)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=upwork&logoColor=white)](mailto:rajachanda1105@gmail.com)
 
 **📧 Email:** [rajachanda1105@gmail.com](mailto:rajachanda1105@gmail.com)  
@@ -80,16 +92,6 @@ Available For:
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>gif/code.gif" width="500px" alt="Coding Animation"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%2B+Machine+Learning+Explorer;MERN+%7C+Flutter+%7C+Golang+Enthusiast;Open+Source+Contributor;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajachanda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-</p>
 
 </div>
 
@@ -291,8 +293,10 @@ const rajachanda = {
 ### 💻 **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajachanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
-### ⚡ **Recent Activity**
-![Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=rajachanda&theme=tokyonight&hide_border=true)
+### ⚡ **Weekly Development Breakdown**
+<!--START_SECTION:waka-->
+<!-- This section will be updated with GitHub Actions -->
+<!--END_SECTION:waka-->
 
 </td>
 </tr>
@@ -335,10 +339,17 @@ const rajachanda = {
 
 </div>
 
-### 📅 **Contribution Heatmap**
+### 📅 **Contribution Snake Animation**
 <div align="center">
   
-![3D Contributions](https://raw.githubusercontent.com/rajachanda/rajachanda/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/rajachanda/rajachanda/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+### 📊 **Contribution Activity Graph**
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajachanda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
