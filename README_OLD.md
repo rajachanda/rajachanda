@@ -7,13 +7,91 @@
 
 <img src="./gif/code.gif" width="500px" alt="Coding Animation"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%2B+Machine+Learning+Explorer;MERN+%7C+Flutter+%7C+Golang+Enthusiast;Open+Source+Contributor;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](ng-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%2B+Machine+Learning+Explorer;MERN+%7C+Flutter+%7C+Golang+Enthusiast;Open+Source+Contributor;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajachanda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
 </p>
+
+</div>
+
+<div align="center">
+
+### 🌐 **Connect With Me**
+
+<a href="https://www.linkedin.com/in/vishwanath-raja-chanda-43888a28b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rajachanda1105@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/rajachanda" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/ChandaRaja6" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+<a href="https://www.instagram.com/chanda_raja_90/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://leetcode.com/u/chanda_raja_90/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+</a>
+<a href="https://www.codechef.com/users/rajachanda1105" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+</div>
+
+### 💼 **Open for Opportunities**
+<div align="center">
+
+```yaml
+Currently Looking For: 
+  - Software Development Internships 🎯
+  - Full-Stack Development Projects 💻
+  - AI/ML Collaboration Opportunities 🤖
+  - Open Source Contributions 🌟
+  - Freelance Web Development 💼
+
+Available For:
+  - Remote Work ✅
+  - Part-time Projects ✅  
+  - Hackathons & Competitions ✅
+  - Mentoring Junior Developers ✅
+```
+
+</div>
+
+### 🎯 **Call to Action**
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rajaportfoli-2vwe.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ED2wgGHL3ICVDfeRq3dEpsktRPSQ46O_/view?usp=sharing)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=upwork&logoColor=white)](mailto:rajachanda1105@gmail.com)
+
+**📧 Email:** [rajachanda1105@gmail.com](mailto:rajachanda1105@gmail.com)  
+**💬 Let's chat about:** `Full-Stack Development` `AI Projects` `Tech Innovation` `Collaboration`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Final Words**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=💡+Innovation+through+Code;🤝+Collaboration+over+Competition;📈+Continuous+Learning+%26+Growth;🚀+Building+the+Future%2C+One+Commit+at+a+Time" />
+
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
 
@@ -214,7 +292,7 @@ const rajachanda = {
 
 ## 🌟 Community & Achievements
 
-### 🎉 **Special GitHub Achievements**
+### � **Special GitHub Achievements**
 <div align="center">
 
 <table>
@@ -248,7 +326,7 @@ const rajachanda = {
 
 </div>
 
-### 🏅 **Profile Highlights**
+### �🏅 **Profile Highlights**
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=rajachanda&color=blueviolet&style=for-the-badge)
@@ -273,10 +351,6 @@ const rajachanda = {
 
 </div>
 
----
-
-## 📈 Contribution Graphs
-
 ### 📅 **Contribution Snake Animation**
 <div align="center">
   
@@ -293,82 +367,22 @@ const rajachanda = {
 
 ---
 
-## 🤝 Let's Build Something Amazing Together!
+### 🤝 Let’s Connect  
 
-<div align="center">
-
-### 🌐 **Connect With Me**
-
-<a href="https://www.linkedin.com/in/vishwanath-raja-chanda-43888a28b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:rajachanda1105@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/rajachanda" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://x.com/ChandaRaja6" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-</a>
-<a href="https://www.instagram.com/chanda_raja_90/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://leetcode.com/u/chanda_raja_90/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-</a>
-<a href="https://www.codechef.com/users/rajachanda1105" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-</div>
-
-### 💼 **Open for Opportunities**
-<div align="center">
-
-```yaml
-Currently Looking For: 
-  - Software Development Internships 🎯
-  - Full-Stack Development Projects 💻
-  - AI/ML Collaboration Opportunities 🤖
-  - Open Source Contributions 🌟
-  - Freelance Web Development 💼
-
-Available For:
-  - Remote Work ✅
-  - Part-time Projects ✅  
-  - Hackathons & Competitions ✅
-  - Mentoring Junior Developers ✅
-```
-
-</div>
-
-### 🎯 **Call to Action**
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rajaportfoli-2vwe.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ED2wgGHL3ICVDfeRq3dEpsktRPSQ46O_/view?usp=sharing)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=upwork&logoColor=white)](mailto:rajachanda1105@gmail.com)
-
-**📧 Email:** [rajachanda1105@gmail.com](mailto:rajachanda1105@gmail.com)  
-**💬 Let's chat about:** `Full-Stack Development` `AI Projects` `Tech Innovation` `Collaboration`
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajachanda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/rajachanda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### 🌟 **Final Words**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=💡+Innovation+through+Code;🤝+Collaboration+over+Competition;📈+Continuous+Learning+%26+Growth;🚀+Building+the+Future%2C+One+Commit+at+a+Time" />
-
-**"Code is like humor. When you have to explain it, it's bad."** - Cory House
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📬+Open+to+collaborations;🌍+Building+tech+for+impact;⭐+Star+your+favorite+repos!" />
+</p>
