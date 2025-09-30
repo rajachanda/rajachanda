@@ -276,6 +276,24 @@ const rajachanda = {
 
 </div>
 
+### 🎖️ **GitHub Achievements & Badges**
+<div align="center">
+
+| 🏅 **Achievement** | 📊 **Status** | 📝 **Description** |
+|:---|:---:|:---|
+| 🦈 **Pull Shark** | ✅ **x2** | Opened pull requests that have been merged |
+| 💖 **YOLO** | ✅ | Merged a pull request without code review |
+| 🌟 **Highlights** | 🔓 **PRO** | Advanced GitHub features unlocked |
+| 📁 **Organizations** | ✅ | Active member of GitHub organizations |
+
+**🎯 Recent Milestones:**
+- 🥉 **Bronze Pull Shark** - First unlocked on Aug 31
+- 🔄 **16+ Pull Requests** merged across projects
+- 🚀 **Active Contributor** in Property Discovery project
+- 💪 **Consistent Collaboration** with open source community
+
+</div>
+
 <div align="center">
 <table>
 <tr>
@@ -314,7 +332,41 @@ const rajachanda = {
 
 ## 🌟 Community & Achievements
 
-### 🏅 **Profile Highlights**
+### � **Special GitHub Achievements**
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" alt="Pull Shark"/>
+<br><strong>🦈 Pull Shark x2</strong>
+<br><em>Merged multiple PRs</em>
+<br><code>Bronze Level</code>
+</td>
+<td align="center" width="33%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100px" alt="YOLO"/>
+<br><strong>💖 YOLO</strong>
+<br><em>Merged without review</em>
+<br><code>Achieved</code>
+</td>
+<td align="center" width="33%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100px" alt="Contributor"/>
+<br><strong>⚡ Quick Draw</strong>
+<br><em>Fast response time</em>
+<br><code>Active</code>
+</td>
+</tr>
+</table>
+
+**🏆 Achievement Highlights:**
+- 🦈 **Pull Shark Bronze** - Successfully merged 2+ pull requests
+- 💖 **YOLO Badge** - Demonstrates confidence in code quality
+- 🌟 **PRO Status** - Access to advanced GitHub features
+- 📁 **Organization Member** - Collaborative team player
+
+</div>
+
+### �🏅 **Profile Highlights**
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=rajachanda&color=blueviolet&style=for-the-badge)
