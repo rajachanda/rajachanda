@@ -261,38 +261,7 @@ const rajachanda = {
 
 ---
 
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajachanda&custom_title=Raja%27s%20Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajachanda&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 🎖️ **GitHub Achievements & Badges**
-<div align="center">
-
-| 🏅 **Achievement** | 📊 **Status** | 📝 **Description** |
-|:---|:---:|:---|
-| 🦈 **Pull Shark** | ✅ **x2** | Opened pull requests that have been merged |
-| 💖 **YOLO** | ✅ | Merged a pull request without code review |
-| 🌟 **Highlights** | 🔓 **PRO** | Advanced GitHub features unlocked |
-| 📁 **Organizations** | ✅ | Active member of GitHub organizations |
-
-**🎯 Recent Milestones:**
-- 🥉 **Bronze Pull Shark** - First unlocked on Aug 31
-- 🔄 **16+ Pull Requests** merged across projects
-- 🚀 **Active Contributor** in Property Discovery project
-- 💪 **Consistent Collaboration** with open source community
-
-</div>
+## 📊 GitHub Statistics & Achievements
 
 <div align="center">
 <table>
@@ -311,21 +280,12 @@ const rajachanda = {
 ### 💻 **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajachanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
-### ⚡ **Weekly Development Breakdown**
-<!--START_SECTION:waka-->
-<!-- This section will be updated with GitHub Actions -->
-<!--END_SECTION:waka-->
+### 🏆 **GitHub Trophies**
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajachanda&theme=onedark&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
 </table>
-</div>
-
-### 🎯 **Coding Stats**
-<div align="center">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajachanda&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
