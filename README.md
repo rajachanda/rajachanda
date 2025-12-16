@@ -95,27 +95,33 @@ Mock interview platform with real-time AI feedback
 </td>
 <td width="50%" valign="top">
 
-### 🏭 Smart India Hackathon Projects
-
-#### 🌱 [coSmart - Waste Management Platform](https://github.com/gaddalecharmi/SIH-2k25)
-Comprehensive waste management platform for SIH 2025
-- **Tech Stack:** `MERN Stack` `IoT Sensors` `Chart.js` `JWT Auth`
-- **Features:** Citizen training, Green Champion verification, ULB analytics, eco-vending
-- **Roles:** Citizens, Green Champions, ULB Officers
-- **Status:** 🏆 SIH 2025 Project
+### 🏆 Smart India Hackathon Project
 
 #### ⛏️ [MINERVA - Mining Safety Platform](https://github.com/rajachanda/SIH-Minerva)
-🏆 **SIH Grand Finale Project** - AI-powered mining safety monitoring system
-- **Tech Stack:** `React Native` `FastAPI` `YOLOv8` `ESP32` `Firebase`
-- **Features:** PPE detection, hazard detection, smart helmets, multi-language, emergency SOS
-- **AI Models:** YOLOv8 PPE detection, DeepCrack hazard detection
-- **Achievement:** 🥇 **Smart India Hackathon Grand Finale**
-- **Status:** 🏆 Grand Finale Winner - Production
+🥇 **SIH Grand Finale Winner** - AI-powered mining safety monitoring system
+- **Tech Stack:** `React Native` `FastAPI` `YOLOv8` `ESP32` `Firebase` `PyTorch`
+- **Features:** Real-time PPE detection, hazard monitoring, smart IoT helmets, emergency SOS system
+- **AI Models:** YOLOv8 PPE compliance, DeepCrack structural analysis, fire detection
+- **Multi-Role Platform:** Miner, Supervisor, Safety Officer, Engineer, Admin dashboards
+- **Achievement:** 🏆 **Smart India Hackathon Grand Finale Winner**
+- **Impact:** Comprehensive mining safety solution with AI-powered detection
+- **Status:** 🏆 Grand Finale Winner - Production Ready
+
+---
+
+### 🌍 Social Impact Projects
+
+#### 🌱 [coSmart - Waste Management Platform](https://github.com/gaddalecharmi/SIH-2k25)
+Smart waste management ecosystem with citizen engagement
+- **Tech Stack:** `MERN Stack` `IoT Sensors` `Chart.js` `JWT Auth`
+- **Features:** Training modules, Green Champion verification, ULB analytics, eco-vending machines
+- **Roles:** Citizens, Green Champions, ULB Officers
+- **Status:** 🟢 Active Development
 
 #### 🎵 [Little Musicians Academy Website](https://github.com/rajachanda/crescendo-academy-web-main)
-Non-profit music education platform website
+Non-profit music education platform
 - **Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
-- **Features:** Responsive design, course showcase, testimonials, contact forms
+- **Features:** Responsive design, course showcase, testimonials, accessibility-focused
 - **Mission:** Free music education for all children
 - **Status:** 🟢 Live
 
