@@ -13,6 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=rajachanda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/rajachanda&style=flat&color=blue" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Commits&query=$.totalCommitContributions&url=https://github-contributions-api.deno.dev/rajachanda.json&style=flat&color=green" alt="Total Commits" />
 </p>
 
 </div>
@@ -69,46 +71,149 @@ const rajachanda = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Projects
-- **🎯 AI Career Coach Platform** - Next.js powered intelligent career guidance and planning platform
-  - `Next.js` `AI Integration` `Career Analytics` `Personalized Guidance` `Modern UI`
-- **💼 AI Interview Trainer** - Mock interview platform with AI-powered feedback and assessment
-  - `MERN Stack` `AI Integration` `Real-time Feedback` `Interview Analytics`
-- **📝 Smart TODO App** - Production-ready full-stack app with recurring tasks, Pomodoro integration, and analytics dashboard
-  - `Flask` `React` `PostgreSQL` `Task Analytics` `Pomodoro Timer` `Smart Notifications`
+### 🤖 AI-Powered & Gamification
+
+#### 🎮 [HAVIT - Habit Victory Tracker](https://github.com/rajachanda/HAVIT)
+World's first RPG-style gamified habit tracker with AI coaching
+- **Tech Stack:** `React 18` `TypeScript` `Firebase` `Gemini AI 2.5` `Express`
+- **Features:** 9-level character evolution, AI Sage coach, friend challenges, squad battles, XP system
+- **Impact:** 73% higher retention, real-time leaderboards, social competition
+- **Status:** 🟢 Live & Production
+
+#### 🎯 [AI Career Coach Platform](https://github.com/rajachanda/ai-career-coach)
+Next.js powered intelligent career guidance platform
+- **Tech Stack:** `Next.js` `TypeScript` `AI Integration` `Tailwind CSS`
+- **Features:** Career path recommendations, skill gap analysis, personalized guidance
+- **Status:** 🟢 Active Development
+
+#### 💼 [AI Interview Trainer](https://github.com/rajachanda/ai-interview-trainer)
+Mock interview platform with real-time AI feedback
+- **Tech Stack:** `React` `Node.js` `MongoDB` `OpenAI API`
+- **Features:** Real-time feedback, interview recording, analytics
+- **Status:** 🟢 Live & Deployed
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Applications  
-- **🌱 Eco-Smart Waste Management** - Smart app-based waste management ecosystem with Green Champions monitoring and eco-vending machines
-  - `MERN Stack` `IoT Sensors` `Real-time Monitoring` `Reward System` `Mobile App`
-- **🔗 PERMA Platform** - Next-generation link-in-bio platform for professionals to share digital identity with tracking and engagement
-  - `React 19` `Vite` `Express.js` `MongoDB` `Analytics Dashboard` `Security Features`
-- **🏠 Property Discovery** - AI-powered real estate platform with secure listings, advanced analytics, and intelligent recommendations
-  - `MERN Stack` `AI Recommendations` `Advanced Analytics` `Responsive Design` `Verified Listings`
+### 🏭 Smart India Hackathon Projects
+
+#### 🌱 [coSmart - Waste Management Platform](https://github.com/gaddalecharmi/SIH-2k25)
+Comprehensive waste management platform for SIH 2025
+- **Tech Stack:** `MERN Stack` `IoT Sensors` `Chart.js` `JWT Auth`
+- **Features:** Citizen training, Green Champion verification, ULB analytics, eco-vending
+- **Roles:** Citizens, Green Champions, ULB Officers
+- **Status:** 🏆 SIH 2025 Project
+
+#### ⛏️ [MINERVA - Mining Safety Platform](https://github.com/rajachanda/SIH-Minerva)
+🏆 **SIH Grand Finale Project** - AI-powered mining safety monitoring system
+- **Tech Stack:** `React Native` `FastAPI` `YOLOv8` `ESP32` `Firebase`
+- **Features:** PPE detection, hazard detection, smart helmets, multi-language, emergency SOS
+- **AI Models:** YOLOv8 PPE detection, DeepCrack hazard detection
+- **Achievement:** 🥇 **Smart India Hackathon Grand Finale**
+- **Status:** 🏆 Grand Finale Winner - Production
+
+#### 🎵 [Little Musicians Academy Website](https://github.com/rajachanda/crescendo-academy-web-main)
+Non-profit music education platform website
+- **Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
+- **Features:** Responsive design, course showcase, testimonials, contact forms
+- **Mission:** Free music education for all children
+- **Status:** 🟢 Live
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Business Solutions
-- **💳 Bus Pass Automation System** - Digital bus pass system for VNR VJIET college eliminating physical paperwork and queues
-  - `MERN Stack` `Razorpay Integration` `QR Code Generation` `College Management` `Paperless System`
-- **📊 Expense Tracker** - Personal expense tracking application for financial management
-  - `MERN Stack` `Expense Analytics` `Budget Management` `Data Visualization`
+### 🌐 Full-Stack Applications
+
+#### 🔗 [PERMA Platform](https://github.com/rajachanda/perma-platform)
+Next-generation link-in-bio solution with analytics
+- **Tech Stack:** `React 19` `Vite` `Express.js` `MongoDB` `JWT Auth`
+- **Features:** Custom URLs, engagement tracking, analytics dashboard
+- **Status:** 🟢 Live
+
+#### 🏠 [Property Discovery Platform](https://github.com/rajachanda/property-discovery)
+AI-powered real estate marketplace
+- **Tech Stack:** `MERN Stack` `AI/ML` `Google Maps API` `Payment Gateway`
+- **Features:** AI recommendations, verified listings, advanced search
+- **Status:** 🟢 Production
+
+#### 📝 [Smart TODO App](https://github.com/rajachanda/smart-todo)
+Production-ready task management with Pomodoro
+- **Tech Stack:** `Flask` `React` `PostgreSQL` `RESTful API`
+- **Features:** Recurring tasks, Pomodoro integration, analytics
+- **Status:** 🟢 Production Ready
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Web Development
-- **🌟 Personal Portfolio** - Professional portfolio showcasing skills, projects, and achievements
-  - `React` `Tailwind CSS` `Responsive Design` `Modern UI/UX`
-- **📝 Blog Platform** - MERN Stack blog application with role-based access control and content management
-  - `MERN Stack` `Role-based Authentication` `Content Management` `Rich Text Editor`
-- **⚡ FlashForte 2K25 Website** - Official event website for CSI VNR VJIET's FlashForte 2025 technical event
-  - `React` `Tailwind CSS` `Event Management` `Registration System` `Interactive Design`
+### 💰 Business & Automation
+
+#### 💳 [Bus Pass Automation System](https://github.com/rajachanda/bus-pass-automation)
+Digital bus pass system for VNR VJIET with QR verification
+- **Tech Stack:** `MERN Stack` `Razorpay` `QR Code Gen` `Admin Panel`
+- **Features:** Online payment, QR verification, paperless system
+- **Status:** 🟢 College Deployed
+
+#### 📊 [Expense Tracker Pro](https://github.com/rajachanda/expense-tracker)
+Comprehensive financial management
+- **Tech Stack:** `React` `Node.js` `MongoDB` `Chart.js`
+- **Features:** Category tracking, budget alerts, data visualization
+- **Status:** 🟢 Live
+
+#### 🎫 [Event Management System](https://github.com/rajachanda/event-manager)
+Complete event registration platform
+- **Tech Stack:** `MERN Stack` `Payment Integration` `Email Service`
+- **Features:** Registration, attendance tracking, certificate generation
+- **Status:** 🟢 Active
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Web Development & Design
+
+#### ⚡ [FlashForte 2K25 Website](https://github.com/rajachanda/flashforte-2k25)
+Official CSI VNR VJIET technical event website
+- **Tech Stack:** `React` `Tailwind CSS` `Framer Motion` `Firebase`
+- **Features:** Event registration, schedule display, interactive UI
+- **Status:** 🟢 Live Event
+
+#### 🌟 [Professional Portfolio](https://rajaportfoli-2vwe.vercel.app/)
+Modern portfolio showcasing projects
+- **Tech Stack:** `React` `Tailwind CSS` `Framer Motion` `Vercel`
+- **Features:** Interactive UI, project showcase, contact form
+- **Status:** 🟢 Live
+
+#### 📝 [Blog Platform](https://github.com/rajachanda/blog-platform)
+Full-featured blog with role-based access
+- **Tech Stack:** `MERN Stack` `Rich Text Editor` `JWT Auth` `SEO`
+- **Features:** Content management, user roles, commenting
+- **Status:** 🟢 Production
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Additional Projects
+
+#### 🌾 Waste Management Ecosystem
+Smart app-based waste management with IoT
+- **Tech Stack:** `MERN Stack` `IoT Sensors` `Mobile App`
+- **Features:** Real-time monitoring, reward system
+- **Status:** 🔵 Beta Testing
+
+#### 🎪 Community Platforms
+Various community-driven applications
+- **Tech Stack:** Multiple stacks
+- **Features:** User engagement, social features
+- **Status:** Various stages
+
+#### 🔧 Utility Applications
+Tools and utilities for daily use
+- **Tech Stack:** Multiple frameworks
+- **Features:** Problem-solving tools
+- **Status:** Active Development
 
 </td>
 </tr>
@@ -116,7 +221,14 @@ const rajachanda = {
 
 <div align="center">
 
-[![GitHub Repo](https://img.shields.io/badge/View%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajachanda?tab=repositories)
+### 📌 **Project Stats**
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Total%20Projects&query=$.public_repos&style=for-the-badge&color=00D9FF" alt="Total Projects" />
+<img src="https://img.shields.io/badge/Live%20Projects-15+-00FF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIH%20Grand%20Finale-1-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Technologies%20Used-20+-FF69B4?style=for-the-badge" />
+
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajachanda?tab=repositories)
 
 </div>
 
@@ -191,23 +303,27 @@ const rajachanda = {
 <td width="50%" align="center">
 
 ### 📈 **GitHub Statistics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajachanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rajachanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Raja%20Chanda's%20GitHub%20Stats" alt="GitHub Stats" />
 
 ### 🔥 **Coding Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajachanda&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajachanda&theme=tokyonight&hide_border=true&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </td>
 <td width="50%" align="center">
 
 ### 💻 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajachanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajachanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" />
 
 ### 🏆 **GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajachanda&theme=onedark&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=rajachanda&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 
 </td>
 </tr>
 </table>
+
+### 📊 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajachanda&theme=tokyo-night&hide_border=true&custom_title=Raja%20Chanda's%20Contribution%20Graph&area=true&point=00D9FF" alt="Contribution Graph" width="100%" />
+
 </div>
 
 ---
@@ -251,12 +367,13 @@ const rajachanda = {
 ### 🏅 **Profile Highlights**
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=rajachanda&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/rajachanda?label=Followers&style=for-the-badge&color=orange)
-![GitHub User's stars](https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
-![Years Badge](https://badges.pufler.dev/years/rajachanda?style=for-the-badge&color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/rajachanda?style=for-the-badge&color=green)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/rajachanda?style=for-the-badge&color=red)
+<img src="https://komarev.com/ghpvc/?username=rajachanda&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=for-the-badge&color=orange" alt="Followers" />
+<img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars" />
+<img src="https://badges.pufler.dev/years/rajachanda?style=for-the-badge&color=blue" alt="Years" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=green" alt="Repos" />
+<img src="https://badges.pufler.dev/commits/monthly/rajachanda?style=for-the-badge&color=red" alt="Monthly Commits" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=purple" alt="Gists" />
 
 </div>
 
