@@ -69,7 +69,7 @@ const rajachanda = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="49%" valign="top">
 
 ### 🤖 AI-Powered & Gamification
 
