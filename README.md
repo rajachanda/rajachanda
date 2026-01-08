@@ -298,44 +298,7 @@ Tools and utilities for daily use
 | **Dart/Flutter** | ⭐⭐⭐⭐ | 1+ year |
 
 </div>
-
 ---
-
-## 📊 GitHub Statistics & Achievements
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📈 **GitHub Statistics**
-<img src="https://github-readme-stats.vercel.app/api?username=rajachanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Raja%20Chanda's%20GitHub%20Stats" alt="GitHub Stats" />
-
-### 🔥 **Coding Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajachanda&theme=tokyonight&hide_border=true&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</td>
-<td width="50%" align="center">
-
-### 💻 **Most Used Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajachanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" />
-
-### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=rajachanda&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-
-</td>
-</tr>
-</table>
-
-### 📊 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajachanda&theme=tokyo-night&hide_border=true&custom_title=Raja%20Chanda's%20Contribution%20Graph&area=true&point=00D9FF" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
-## 🌟 Community & Achievements
-
 ### 🎉 **Special GitHub Achievements**
 <div align="center">
 
