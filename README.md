@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Raja Chanda
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Vishwanath Raja Chanda
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Tech Innovator
 ### 🎓 B.Tech CSE @ VNRVJIET | Building the Future, One Line at a Time
