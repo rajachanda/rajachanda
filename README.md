@@ -49,6 +49,10 @@ const rajachanda = {
 };
 ```
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎯 Current Goals
 - 🔭 Working on **Innovative Web + AI Projects**
 - 🌱 Mastering **MERN Stack, Flutter, Golang & Competitive Programming**
@@ -56,6 +60,15 @@ const rajachanda = {
 - 🤔 Actively seeking **Software Development Internships**
 - 💬 Ask me anything about **Tech, Development, or Life** [here](https://github.com/rajachanda/rajachanda/issues)
 - ⚡ Fun fact: **I can code for hours but forget to eat lunch!** 😄
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true" alt="GitHub Stats" />
+
+</td>
+</tr>
+</table>
 
 ---
 
