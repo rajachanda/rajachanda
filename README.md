@@ -49,7 +49,7 @@ const rajachanda = {
 };
 ```
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -64,7 +64,7 @@ const rajachanda = {
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajachanda&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajachanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
 
 </td>
 </tr>
