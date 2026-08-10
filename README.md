@@ -11,14 +11,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajachanda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/rajachanda&style=flat&color=blue" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Commits&query=$.totalCommitContributions&url=https://github-contributions-api.deno.dev/rajachanda.json&style=flat&color=green" alt="Total Commits" />
+  <img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=social" alt="GitHub Followers" width="110" />
+  <img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" width="110" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/rajachanda&style=flat&color=blue" alt="Public Repos" width="130" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Commits&query=$.totalCommitContributions&url=https://github-contributions-api.deno.dev/rajachanda.json&style=flat&color=green" alt="Total Commits" width="150" />
 </p>
 
 </div>
 
+---
 ---
 
 ## 🚀 About Me
@@ -58,185 +59,504 @@ const rajachanda = {
 - ⚡ Fun fact: **I can code for hours but forget to eat lunch!** 😄
 
 ---
+---
 
-## 🌟 Featured Projects
+## 💼 Experience
 
-<div align="center">
+### 📊 Full Stack Developer Intern — Apslion Labs
 
-### 🏆 Flagship Projects
+Worked on a RAG-based AI property assistant and production features for a MERN property platform.
 
-</div>
+Contributions
 
-<table>
-<tr>
-<td width="49%" valign="top">
+- 📡 Built Retrieval-Augmented Generation pipelines for contextual property insights and recommendations
+- 🧩 Integrated vector embeddings, retrieval, and LLM responses for better user guidance
+- 🖥️ Implemented frontend components and connected the RAG backend to MERN interfaces
+- ⚙️ Helped productionize workflows and improve data retrieval accuracy
 
-### 🤖 AI-Powered & Gamification
+### 📊 Software Engineering Intern — PSNM Innovations
 
-#### 🎮 [HAVIT - Habit Victory Tracker](https://github.com/rajachanda/HAVIT)
-World's first RPG-style gamified habit tracker with AI coaching
-- **Tech Stack:** `React 18` `TypeScript` `Firebase` `Gemini AI 2.5` `Express`
-- **Features:** 9-level character evolution, AI Sage coach, friend challenges, squad battles, XP system
-- **Impact:** 73% higher retention, real-time leaderboards, social competition
-- **Status:** 🟢 Live & Production
+Worked across staging and workflow automation using Supabase and deployment tools.
 
-#### 🎯 [AI Career Coach Platform](https://github.com/rajachanda/ai-career-coach)
-Next.js powered intelligent career guidance platform
-- **Tech Stack:** `Next.js` `TypeScript` `AI Integration` `Tailwind CSS`
-- **Features:** Career path recommendations, skill gap analysis, personalized guidance
-- **Status:** 🟢 Active Development
+Contributions
 
-#### 💼 [AI Interview Trainer](https://github.com/rajachanda/ai-interview-trainer)
-Mock interview platform with real-time AI feedback
-- **Tech Stack:** `React` `Node.js` `MongoDB` `OpenAI API`
-- **Features:** Real-time feedback, interview recording, analytics
-- **Status:** 🟢 Live & Deployed
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 Smart India Hackathon Project
-
-#### ⛏️ [MINERVA - Mining Safety Platform](https://github.com/rajachanda/SIH-Minerva)
-🥇 **SIH Grand Finale Winner** - AI-powered mining safety monitoring system
-- **Tech Stack:** `React Native` `FastAPI` `YOLOv8` `ESP32` `Firebase` `PyTorch`
-- **Features:** Real-time PPE detection, hazard monitoring, smart IoT helmets, emergency SOS system
-- **AI Models:** YOLOv8 PPE compliance, DeepCrack structural analysis, fire detection
-- **Multi-Role Platform:** Miner, Supervisor, Safety Officer, Engineer, Admin dashboards
-- **Achievement:** 🏆 **Smart India Hackathon Grand Finale Winner**
-- **Impact:** Comprehensive mining safety solution with AI-powered detection
-- **Status:** 🏆 Grand Finale Winner - Production Ready
+- 🔄 Managed staging environment and cross-role workflows for the core website
+- 🗃️ Used Supabase for backend operations and data management
+- 🛠️ Automated deployment and development workflows; improved dev-to-prod handoffs
 
 ---
 
-### 🌍 Social Impact Projects
+## 🏆 Leadership
 
-#### 🌱 [coSmart - Waste Management Platform](https://github.com/gaddalecharmi/SIH-2k25)
-Smart waste management ecosystem with citizen engagement
-- **Tech Stack:** `MERN Stack` `IoT Sensors` `Chart.js` `JWT Auth`
-- **Features:** Training modules, Green Champion verification, ULB analytics, eco-vending machines
-- **Roles:** Citizens, Green Champions, ULB Officers
-- **Status:** 🟢 Active Development
+### 👨‍💼 CSI Student Chapter — Technical Lead / Head
 
-#### 🎵 [Little Musicians Academy Website](https://github.com/rajachanda/crescendo-academy-web-main)
-Non-profit music education platform
-- **Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
-- **Features:** Responsive design, course showcase, testimonials, accessibility-focused
-- **Mission:** Free music education for all children
-- **Status:** 🟢 Live
+Led technical initiatives, events, and student developer programs at the CSI chapter (VNR VJIET).
 
-</td>
-</tr>
+Highlights
+
+- 💻 Organized coding contests and campus hackathons
+- 🤖 Ran AI Week 2K26 workshops and hands-on sessions
+- 👥 Coordinated multi-person technical teams and volunteer organizers
+- 🎯 Managed event logistics, outreach, and execution
+- 🌱 Built a collaborative student developer community through mentorship and workshops
+
+Leadership taught me that building great products isn't only about writing code — it's about ownership, communication, and consistent execution.
+
+```
+Ownership
+Communication
+Consistency
+Collaboration
+Execution
+```
+
+
+
+## 🌟 Featured Projects
+
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Applications
+### 🛡️ JUSTra
 
-#### 🔗 [PERMA Platform](https://github.com/rajachanda/perma-platform)
-Next-generation link-in-bio solution with analytics
-- **Tech Stack:** `React 19` `Vite` `Express.js` `MongoDB` `JWT Auth`
-- **Features:** Custom URLs, engagement tracking, analytics dashboard
-- **Status:** 🟢 Live
+#### AI-Assisted Complaint Triage Platform
 
-#### 🏠 [Property Discovery Platform](https://github.com/rajachanda/property-discovery)
-AI-powered real estate marketplace
-- **Tech Stack:** `MERN Stack` `AI/ML` `Google Maps API` `Payment Gateway`
-- **Features:** AI recommendations, verified listings, advanced search
-- **Status:** 🟢 Production
+AI-powered complaint triage platform for workplace harassment reporting, evidence enrichment, and decision support.
 
-#### 📝 [Smart TODO App](https://github.com/rajachanda/smart-todo)
-Production-ready task management with Pomodoro
-- **Tech Stack:** `Flask` `React` `PostgreSQL` `RESTful API`
-- **Features:** Recurring tasks, Pomodoro integration, analytics
-- **Status:** 🟢 Production Ready
+**⚡ Features**
+
+- 🕵️ Anonymous complaint intake
+- 🤖 LLM-powered complaint triage
+- 📄 Evidence OCR & summarization
+- 🧠 RAG-based decision support
+- 👥 Multi-persona dashboards
+- 🔐 Role-based access control
+
+**🛠️ Stack**
+
+`Next.js` `Supabase` `Groq` `Python` `RAG` `Telegram`
+
+🏆 **1st Place · Designathon 4.0**
+
+[🔗 View Project](https://github.com/rajachanda/Justra)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 💰 Business & Automation
+### ⛏️ MINERVA
 
-#### 💳 [Bus Pass Automation System](https://github.com/rajachanda/bus-pass-automation)
-Digital bus pass system for VNR VJIET with QR verification
-- **Tech Stack:** `MERN Stack` `Razorpay` `QR Code Gen` `Admin Panel`
-- **Features:** Online payment, QR verification, paperless system
-- **Status:** 🟢 College Deployed
+#### AI-Powered Mining Safety Platform
 
-#### 📊 [Expense Tracker Pro](https://github.com/rajachanda/expense-tracker)
-Comprehensive financial management
-- **Tech Stack:** `React` `Node.js` `MongoDB` `Chart.js`
-- **Features:** Category tracking, budget alerts, data visualization
-- **Status:** 🟢 Live
+AI-powered mining safety solution combining computer vision, IoT, and role-based monitoring to improve worker safety.
 
-#### 🎫 [Event Management System](https://github.com/rajachanda/event-manager)
-Complete event registration platform
-- **Tech Stack:** `MERN Stack` `Payment Integration` `Email Service`
-- **Features:** Registration, attendance tracking, certificate generation
-- **Status:** 🟢 Active
+**⚡ Features**
+
+- 🦺 Real-time PPE detection
+- 🚨 Hazard monitoring
+- 🪖 Smart IoT helmets
+- 🆘 Emergency SOS system
+- 🔥 Fire detection
+- 👥 Multi-role dashboards
+
+**🛠️ Stack**
+
+`React Native` `FastAPI` `YOLOv8` `ESP32` `Firebase` `PyTorch`
+
+🏆 **Smart India Hackathon Grand Finale Winner**
+
+[🔗 View Project](https://github.com/rajachanda/SIH-Minerva)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎨 Web Development & Design
+### 🎬 Webathon4
 
-#### ⚡ [FlashForte 2K25 Website](https://github.com/rajachanda/flashforte-2k25)
-Official CSI VNR VJIET technical event website
-- **Tech Stack:** `React` `Tailwind CSS` `Framer Motion` `Firebase`
-- **Features:** Event registration, schedule display, interactive UI
-- **Status:** 🟢 Live Event
+#### CinYstore · Film Distribution Intelligence
 
-#### 🌟 [Professional Portfolio](https://rajaportfoli-2vwe.vercel.app/)
-Modern portfolio showcasing projects
-- **Tech Stack:** `React` `Tailwind CSS` `Framer Motion` `Vercel`
-- **Features:** Interactive UI, project showcase, contact form
-- **Status:** 🟢 Live
+AI-powered film distribution and marketing intelligence platform with poster analysis, release-window intelligence, and audience buzz tracking.
 
-#### 📝 [Blog Platform](https://github.com/rajachanda/blog-platform)
-Full-featured blog with role-based access
-- **Tech Stack:** `MERN Stack` `Rich Text Editor` `JWT Auth` `SEO`
-- **Features:** Content management, user roles, commenting
-- **Status:** 🟢 Production
+**⚡ Features**
+
+- 🎨 AI poster scoring
+- 📊 Buzz analytics
+- 🗓️ Release window heatmaps
+- 📺 YouTube & social metrics
+- 📈 Competition analysis
+- 🎯 Campaign blueprints
+
+**🛠️ Stack**
+
+`React` `Node.js` `Supabase` `Python` `ML`
+
+[🔗 View Project](https://github.com/rajachanda/Webathon4)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎯 Additional Projects
+### 🎮 HAVIT
 
-#### 🌾 Waste Management Ecosystem
-Smart app-based waste management with IoT
-- **Tech Stack:** `MERN Stack` `IoT Sensors` `Mobile App`
-- **Features:** Real-time monitoring, reward system
-- **Status:** 🔵 Beta Testing
+#### RPG-Style Habit Tracker
 
-#### 🎪 Community Platforms
-Various community-driven applications
-- **Tech Stack:** Multiple stacks
-- **Features:** User engagement, social features
-- **Status:** Various stages
+Gamified habit management platform that turns everyday habits into an RPG experience with AI coaching and social competition.
 
-#### 🔧 Utility Applications
-Tools and utilities for daily use
-- **Tech Stack:** Multiple frameworks
-- **Features:** Problem-solving tools
-- **Status:** Active Development
+**⚡ Features**
+
+- 🧙 9-level character evolution
+- 🤖 AI Sage coach
+- ⚔️ Friend challenges
+- ⭐ XP progression system
+- 🏆 Real-time leaderboards
+- 🔥 Social competition
+
+**🛠️ Stack**
+
+`React` `TypeScript` `Firebase` `Gemini AI` `Express`
+
+[🔗 View Project](https://github.com/rajachanda/HAVIT)
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 AI Career Coach
+
+#### Intelligent Career Guidance Platform
+
+Next.js-powered career platform that provides personalized career recommendations and identifies skill gaps.
+
+**⚡ Features**
+
+- 🧭 Career path recommendations
+- 📊 Skill gap analysis
+- 🤖 AI-powered guidance
+- 🎓 Personalized learning paths
+- 📈 Career progress tracking
+
+**🛠️ Stack**
+
+`Next.js` `TypeScript` `AI` `Tailwind CSS`
+
+[🔗 View Project](https://github.com/rajachanda/ai-career-coach)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎤 AI Interview Trainer
+
+#### Real-Time AI Mock Interview Platform
+
+Interactive mock interview platform that analyzes responses and provides AI-powered feedback.
+
+**⚡ Features**
+
+- 🎙️ Mock interviews
+- 🤖 Real-time AI feedback
+- 📹 Interview recording
+- 📊 Performance analytics
+- 💡 Improvement suggestions
+
+**🛠️ Stack**
+
+`React` `Node.js` `MongoDB` `OpenAI API`
+
+[🔗 View Project](https://github.com/rajachanda/ai-interview-trainer)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏠 Property Discovery
+
+#### AI-Powered Real Estate Marketplace
+
+Real estate marketplace combining intelligent recommendations, verified listings, location-based discovery, and payments.
+
+**⚡ Features**
+
+- 🤖 AI recommendations
+- 🏠 Verified listings
+- 🔎 Advanced property search
+- 📍 Google Maps integration
+- 💳 Payment gateway
+- 📊 Property insights
+
+**🛠️ Stack**
+
+`MERN` `AI/ML` `Google Maps` `Payments`
+
+[🔗 View Project](https://github.com/rajachanda/property-discovery)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 PERMA
+
+#### Link-in-Bio Analytics Platform
+
+Next-generation link-in-bio platform with custom URLs, engagement tracking, and detailed analytics.
+
+**⚡ Features**
+
+- 🔗 Custom URLs
+- 📊 Engagement tracking
+- 📈 Analytics dashboard
+- 🔐 JWT authentication
+- ⚡ Link management
+
+**🛠️ Stack**
+
+`React 19` `Vite` `Express` `MongoDB` `JWT`
+
+[🔗 View Project](https://github.com/rajachanda/perma-platform)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚌 Bus Pass Automation
+
+#### Digital Bus Pass Management System
+
+Digital bus pass platform built for VNR VJIET with online payments and QR-based verification.
+
+**⚡ Features**
+
+- 💳 Online payments
+- 🎫 Digital bus passes
+- 📱 QR verification
+- 👨‍💼 Admin dashboard
+- 📄 Paperless workflow
+
+**🛠️ Stack**
+
+`MERN` `Razorpay` `QR Code` `Admin Panel`
+
+🟢 **College Deployed**
+
+[🔗 View Project](https://github.com/rajachanda/bus-pass-automation)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ♻️ coSmart
+
+#### Smart Waste Management Platform
+
+Smart waste management ecosystem connecting citizens, Green Champions, and ULB officers through technology and data.
+
+**⚡ Features**
+
+- ♻️ Citizen engagement
+- 🌱 Green Champion verification
+- 📊 ULB analytics
+- 🗑️ Smart waste monitoring
+- 📡 IoT integration
+- 🎁 Reward system
+
+**🛠️ Stack**
+
+`MERN` `IoT` `Chart.js` `JWT`
+
+[🔗 View Project](https://github.com/gaddalecharmi/SIH-2k25)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎵 Little Musicians Academy
+
+#### Music Education Platform
+
+Non-profit music education platform designed to make quality music learning accessible to children.
+
+**⚡ Features**
+
+- 🎼 Course showcase
+- 📱 Responsive design
+- 💬 Testimonials
+- ♿ Accessibility-focused UI
+- 🎨 Interactive interface
+
+**🛠️ Stack**
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
+
+[🔗 View Project](https://github.com/rajachanda/crescendo-academy-web-main)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ FlashForte 2K25
+
+#### CSI VNR VJIET Technical Event Website
+
+Official website for the CSI VNR VJIET technical event with registration and interactive experiences.
+
+**⚡ Features**
+
+- 📝 Event registration
+- 📅 Event schedules
+- 🎨 Interactive UI
+- ✨ Motion animations
+- 📱 Responsive design
+
+**🛠️ Stack**
+
+`React` `Tailwind CSS` `Framer Motion` `Firebase`
+
+[🔗 View Project](https://github.com/rajachanda/flashforte-2k25)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 Expense Tracker Pro
+
+#### Personal Finance Management Platform
+
+Full-featured financial management application for tracking expenses, budgets, and spending patterns.
+
+**⚡ Features**
+
+- 💸 Expense tracking
+- 📊 Data visualization
+- 🎯 Budget management
+- 🚨 Budget alerts
+- 📈 Spending analytics
+
+**🛠️ Stack**
+
+`React` `Node.js` `MongoDB` `Chart.js`
+
+[🔗 View Project](https://github.com/rajachanda/expense-tracker)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎫 Event Management System
+
+#### Full-Stack Event Platform
+
+Complete event management platform supporting registration, attendance tracking, payments, and certificates.
+
+**⚡ Features**
+
+- 📝 Event registration
+- 👥 Attendance tracking
+- 🎟️ Certificate generation
+- 💳 Payment integration
+- 📧 Email notifications
+
+**🛠️ Stack**
+
+`MERN` `Payment Integration` `Email Service`
+
+[🔗 View Project](https://github.com/rajachanda/event-manager)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📝 Smart TODO
+
+#### Productivity & Task Management Platform
+
+Production-ready task management application combining recurring tasks, Pomodoro sessions, and productivity analytics.
+
+**⚡ Features**
+
+- ✅ Smart task management
+- 🔄 Recurring tasks
+- 🍅 Pomodoro timer
+- 📊 Productivity analytics
+- 📅 Task organization
+
+**🛠️ Stack**
+
+`Flask` `React` `PostgreSQL` `REST API`
+
+[🔗 View Project](https://github.com/rajachanda/smart-todo)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+
+#### Personal Portfolio Website
+
+Modern developer portfolio showcasing projects, technical skills, achievements, and experience.
+
+**⚡ Features**
+
+- 🎨 Interactive UI
+- 🚀 Project showcase
+- ✨ Motion animations
+- 📱 Responsive design
+- 📬 Contact section
+
+**🛠️ Stack**
+
+`React` `Tailwind CSS` `Framer Motion` `Vercel`
+
+[🌐 Live Website](https://rajaportfoli-2vwe.vercel.app/)
+
+</td>
+
+</tr>
+
 </table>
 
-<div align="center">
+---
 
-### 📌 **Project Stats**
+### 📊 Project Highlights
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Total%20Projects&query=$.public_repos&style=for-the-badge&color=00D9FF" alt="Total Projects" />
-<img src="https://img.shields.io/badge/Live%20Projects-15+-00FF00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SIH%20Grand%20Finale-1-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Technologies%20Used-20+-FF69B4?style=for-the-badge" />
-
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajachanda?tab=repositories)
-
-</div>
+| | |
+|---|---|
+| 🚀 **15+** | Projects Built |
+| 🤖 **AI/ML** | Intelligent Applications |
+| 🏆 **Hackathons** | Winning Projects |
+| 🌐 **Full-Stack** | Web Applications |
+| 📱 **Web + Mobile** | Cross-Platform Development |
+| ☁️ **Cloud** | Production Deployments |
 
 ---
 
@@ -276,8 +596,8 @@ Tools and utilities for daily use
 ### 🤖 **AI & Machine Learning**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4&theme=dark" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="24" />
 </p>
 
 ### 🛠️ **Development Tools & Workflow**
@@ -306,9 +626,9 @@ Tools and utilities for daily use
 <tr>
 <td align="center" width="33%">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100px" alt="Pull Shark"/>
-<br><strong>🦈 Pull Shark x2</strong>
+<br><strong>🦈 Pull Shark x3</strong>
 <br><em>Merged multiple PRs</em>
-<br><code>Bronze Level</code>
+<br><code>Silver Level — 128 merges</code>
 </td>
 <td align="center" width="33%">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100px" alt="YOLO"/>
@@ -326,7 +646,7 @@ Tools and utilities for daily use
 </table>
 
 **🏆 Achievement Highlights:**
-- 🦈 **Pull Shark Bronze** - Successfully merged 2+ pull requests
+- 🦈 **Pull Shark (Silver)** - Merged **128** pull requests
 - 💖 **YOLO Badge** - Demonstrates confidence in code quality
 - 🌟 **PRO Status** - Access to advanced GitHub features
 - 📁 **Organization Member** - Collaborative team player
@@ -336,15 +656,56 @@ Tools and utilities for daily use
 ### 🏅 **Profile Highlights**
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=rajachanda&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=for-the-badge&color=orange" alt="Followers" />
-<img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars" />
-<img src="https://badges.pufler.dev/years/rajachanda?style=for-the-badge&color=blue" alt="Years" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=green" alt="Repos" />
-<img src="https://badges.pufler.dev/commits/monthly/rajachanda?style=for-the-badge&color=red" alt="Monthly Commits" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=purple" alt="Gists" />
+<img src="https://komarev.com/ghpvc/?username=rajachanda&color=blueviolet&style=for-the-badge" alt="Profile Views" height="28" />
+<img src="https://img.shields.io/github/followers/rajachanda?label=Followers&style=for-the-badge&color=orange" alt="Followers" height="28" />
+<img src="https://img.shields.io/github/stars/rajachanda?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars" height="28" />
+<img src="https://badges.pufler.dev/years/rajachanda?style=for-the-badge&color=blue" alt="Years" height="28" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=green" alt="Repos" height="28" />
+<img src="https://badges.pufler.dev/commits/monthly/rajachanda?style=for-the-badge&color=red" alt="Monthly Commits" height="28" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rajachanda&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=purple" alt="Gists" height="28" />
 
 </div>
+
+---
+
+### 🧩 DSA & Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/chanda_raja_90/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/chanda_raja_90?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
+</a>
+
+</p>
+
+<p align="center">
+  <!-- Local fallback heatmap (generated by workflow) -->
+  <img src="./assets/leetcode-heatmap.svg" alt="LeetCode Heatmap (fallback)" width="620" />
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/chanda_raja_90/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-chanda_raja_90-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+</a>
+</p>
+
+<!-- LC_STATS_START -->
+```txt
+LeetCode Rating  : dynamic (see card)
+Problems Solved  : dynamic (see card)
+CodeChef         : add your CodeChef handle to show badge
+```
+<!-- LC_STATS_END -->
+
+I enjoy solving problems that improve:
+
+- logical thinking
+- optimization skills
+- debugging ability
+- system-level intuition
+
+Patterns > memorization.
+
 
 ### 🎯 **Development Focus Areas**
 <div align="center">
@@ -386,25 +747,25 @@ Tools and utilities for daily use
 ### 🌐 **Connect With Me**
 
 <a href="https://www.linkedin.com/in/vishwanath-raja-chanda-43888a28b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
 </a>
 <a href="mailto:rajachanda1105@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
 </a>
 <a href="https://github.com/rajachanda" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
 <a href="https://x.com/ChandaRaja6" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="28"/>
 </a>
 <a href="https://www.instagram.com/chanda_raja_90/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
 </a>
 <a href="https://leetcode.com/u/chanda_raja_90/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" height="28"/>
 </a>
 <a href="https://www.codechef.com/users/rajachanda1105" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="28"/>
 </a>
 
 </div>
