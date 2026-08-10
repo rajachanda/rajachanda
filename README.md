@@ -94,10 +94,10 @@ Led technical initiatives, events, and student developer programs at the CSI cha
 
 Highlights
 
-- 💻 Organized coding contests and campus hackathons
-- 🤖 Ran AI Week 2K26 workshops and hands-on sessions
+- 💻 Organized Technical Workshops and campus hackathons
+- 🎤 Served as a Speaker at the Build With RAG 2-Day Workshop
+- 🤖 Organized VJ Hackathon which got over 5K+ registrations all over India
 - 👥 Coordinated multi-person technical teams and volunteer organizers
-- 🎯 Managed event logistics, outreach, and execution
 - 🌱 Built a collaborative student developer community through mentorship and workshops
 
 Leadership taught me that building great products isn't only about writing code — it's about ownership, communication, and consistent execution.
